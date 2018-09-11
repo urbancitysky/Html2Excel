@@ -1,3 +1,3 @@
-### Welcome to the small tool for Excel
+# Welcome to the small tool for Excel
 
-Function: for converting html into cells
+Feature: for converting html into cells
